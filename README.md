@@ -1,10 +1,12 @@
 
 - 👋 Hi, I’m ***@bot209***
-- 👀 I’m interested in developing in the field of information technology
-- ⛏  I’m currently working as QA Engineer
+- 👀 I am interested in development in programming
+- ⛏  I’m currently working as manual QA Engineer
+- <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> I'm currently learning Python for QA automation
 - 📫 How to reach me ... 
 
-     [![Chat on Telegram](https://sun9-46.userapi.com/impg/g0QpDFaj8kRw2Mq8qbAS9M6JmhQsxIULKeEFUg/BAuueq90kdk.jpg?size=28x28&quality=96&sign=828e902edb0ecc9e24f84e9b9ad24bf2&type=album)](https://t.me/bot209) 
+[![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bot209)
+
      
 <!---
 bot209/bot209 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
