@@ -19,6 +19,5 @@ def calc(get_x):
 x = browser.find_element(By.CSS_SELECTOR, '#input_value')
 get_x = int(x.text)
 result = calc(get_x)
-print(result)
 answer = browser.find_element(By.CSS_SELECTOR, '#answer').send_keys(result)
 submit = browser.find_element(By.CSS_SELECTOR, '#solve').click()
