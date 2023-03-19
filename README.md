@@ -6,12 +6,32 @@
 - 📩 How to reach me ... 
 
      <a href="https://t.me/bot209">
-          <img align="left" alt="bot209 telegram" width="22px" src="https://www.svgrepo.com/show/271142/telegram.svg" />
+          <img align="left" alt="bot209 Telegram" width="22px" src="https://www.svgrepo.com/show/271142/telegram.svg" />
      </a>
      <a href="https://discordapp.com/users/350327374996570112/">
           <img align="left" alt="bot209 Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
      </a>
-
+     <a href="https://www.linkedin.com/in/bot209/">
+          <img align="left" alt="bot209 LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+     </a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <!---
 bot209/bot209 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
