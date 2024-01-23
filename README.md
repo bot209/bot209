@@ -8,10 +8,7 @@
      <a href="https://t.me/bot209">
           <img align="left" alt="bot209 Telegram" width="22px" src="https://www.svgrepo.com/show/271142/telegram.svg" />
      </a>
-     <a href="https://discordapp.com/users/350327374996570112/">
-          <img align="left" alt="bot209 Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-     </a>
-     <a href="https://www.linkedin.com/in/bot209/">
+     <a href="https://www.linkedin.com/in/bo209/">
           <img align="left" alt="bot209 LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
      </a>
 <picture>
